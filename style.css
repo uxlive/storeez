@@ -15,7 +15,7 @@ body {
   position: relative;
   -webkit-perspective: 100px;
           perspective: 100px;
-  text-transform: uppercase;
+  text-transform: lowercase;
 }
 
 .text {
